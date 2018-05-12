@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35991'
     url: http://www.gutenberg.org/2009/agents/35991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32698#Thoughts-on-the-Religious-Instruction-of-the-Negroes-of-this-Country
 gutenberg_issued: '2010-06-05'
 gutenberg_type: Text
 identifiers:
